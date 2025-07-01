@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard---Power-BI-Project
+# HR-Analytics-Dashboard--Power-BI-Project
 
 This project is a beginner-friendly yet insightful **HR Analytics Dashboard** built using **Power BI**. It analyzes employee attrition trends to help HR teams make data-driven decisions.
 
